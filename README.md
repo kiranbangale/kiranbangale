@@ -1,18 +1,71 @@
-- 👋 Hi, I’m @kiranbangale
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Java
-- 📫 How to reach me ... https://www.kiranbangale.github.io
+# Hi there 👋 I'm Kiran Bangale
 
-Profile summary:
-I'm detailed oriented IT professional with 6 years of experience in full stack responsive web development.
+## Frontend Technical Lead | Enterprise UI Architect | AI-Driven Frontend Engineer
 
-The nature of my education(Bachelor of Engineering in Computer Science) gave me the opportunity to gain the experience in Web Development.
+I am a Frontend Technical Lead with 11+ years of experience building enterprise-scale web applications for global financial institutions including Barclays, JPMorgan Chase and Credit Suisse.
 
-Today's advance web platforms made me explore various JavaScript Frameworks and Libraries like Angular, React, RxJs, Highcharts, etc with Responsive Web Development usingBootstrap, SCSS.
+My expertise lies in designing scalable, high-performance frontend applications using Angular, TypeScript and modern frontend architecture. I enjoy solving complex UI challenges, improving application performance and building intuitive user experiences.
 
-I've also got the chance to work on backend in Java SpringBoot.
-<!---
-- 💞️ I’m looking to collaborate on ... Web Development
-kiranbangale/kiranbangale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💼 Currently working on
+
+- Enterprise Risk Management Platform (Barclays)
+- Angular Micro Frontends
+- High Performance Data Grids & Dashboards
+- AI-powered Dashboard Generation POC
+- Modern Frontend Architecture
+
+### 🛠 Tech Stack
+
+**Frontend**
+- Angular
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- SCSS
+- Tailwind CSS
+
+**Enterprise UI**
+- AG Grid
+- AG Charts
+- Ignite UI
+- RxJS
+- Redux
+
+**Architecture**
+- Micro Frontends
+- Performance Engineering
+- Accessibility (WCAG 2.2)
+- REST APIs
+- Design Systems
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- GitHub
+- GitLab
+- Jenkins
+- OpenShift
+
+**Currently Learning**
+- AI Engineering
+- Prompt Engineering
+- Model Context Protocol (MCP)
+- Enterprise AI Applications
+
+### 🏆 Highlights
+
+- 11+ years in Frontend Engineering
+- Barclays • JPMorgan Chase • Credit Suisse
+- Frontend owner of Risk Desktop Core
+- Technical Lead
+- AI Dashboard Generation POC
+- Performance Optimization
+- Enterprise UI Architecture
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/kiranbangale
+- Portfolio: https://kiranbangale.github.io
