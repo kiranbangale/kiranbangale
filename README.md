@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kiranbangale/kiranbangale/main/banner.png" alt="Banner" width="100%">
+</p>
+
 # Hi there 👋 I'm Kiran Bangale
 
 ## Frontend Technical Lead | Enterprise UI Architect | AI-Driven Frontend Engineer
